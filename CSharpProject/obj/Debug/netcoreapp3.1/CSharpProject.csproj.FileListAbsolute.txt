@@ -1,0 +1,14 @@
+D:\Learning\CSharp\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.exe
+D:\Learning\CSharp\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.deps.json
+D:\Learning\CSharp\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.runtimeconfig.json
+D:\Learning\CSharp\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.runtimeconfig.dev.json
+D:\Learning\CSharp\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.dll
+D:\Learning\CSharp\CSharpProject\bin\Debug\netcoreapp3.1\CSharpProject.pdb
+D:\Learning\CSharp\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.csproj.AssemblyReference.cache
+D:\Learning\CSharp\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\CSharp\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.AssemblyInfoInputs.cache
+D:\Learning\CSharp\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.AssemblyInfo.cs
+D:\Learning\CSharp\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.csproj.CoreCompileInputs.cache
+D:\Learning\CSharp\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.dll
+D:\Learning\CSharp\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.pdb
+D:\Learning\CSharp\CSharpProject\obj\Debug\netcoreapp3.1\CSharpProject.genruntimeconfig.cache
