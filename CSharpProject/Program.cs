@@ -10,7 +10,8 @@ namespace CSharpProject
             //ArrayReverseOrder.DisplayArrayInReverseOrder();
             //SumOfArrayElements.SumOfAllElementsInArray();
             //CopyArrayElements.CopyOneArrayToOtherArray();
-            CountDuplicateElementsArray.CountDuplicateElementsInArray();
+            //CountDuplicateElementsArray.CountDuplicateElementsInArray();
+            MergeTwoArrays.SortMergedArray();
         }
     }
 }
