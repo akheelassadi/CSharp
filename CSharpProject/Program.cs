@@ -8,7 +8,9 @@ namespace CSharpProject
         static void Main(string[] args)
         {
             //ArrayReverseOrder.DisplayArrayInReverseOrder();
-            SumOfArrayElements.SumOfAllElementsInArray();
+            //SumOfArrayElements.SumOfAllElementsInArray();
+            //CopyArrayElements.CopyOneArrayToOtherArray();
+            CountDuplicateElementsArray.CountDuplicateElementsInArray();
         }
     }
 }
