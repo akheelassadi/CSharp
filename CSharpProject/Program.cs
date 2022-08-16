@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace CSharpProject
 {
@@ -6,8 +7,8 @@ namespace CSharpProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-        }
+            //ArrayReverseOrder.DisplayArrayInReverseOrder();
+            SumOfArrayElements.SumOfAllElementsInArray();
         }
     }
 }
