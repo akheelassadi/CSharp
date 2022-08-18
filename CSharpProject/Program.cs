@@ -11,7 +11,8 @@ namespace CSharpProject
             //SumOfArrayElements.SumOfAllElementsInArray();
             //CopyArrayElements.CopyOneArrayToOtherArray();
             //CountDuplicateElementsArray.CountDuplicateElementsInArray();
-            MergeTwoArrays.SortMergedArray();
+            //MergeTwoArrays.SortMergedArray();
+            FrequencyOfElementsInArray.DisplayFrequencyOfEachElementInArray();
         }
     }
 }
