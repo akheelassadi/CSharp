@@ -15,7 +15,8 @@ namespace CSharpProject
             //FrequencyOfElementsInArray.DisplayFrequencyOfEachElementInArray();
             //FindMinAndMaxElementInArray.DisplayMaxElementInArray();
             //FindMinAndMaxElementInArray.DisplayMinElementInArray();
-            OddAndEvenNumbersInArray.DisplayEvenAndOddNumbers();
+            //OddAndEvenNumbersInArray.DisplayEvenAndOddNumbers();
+            SortArrayElements.DisplayArrayElementsInAscOrder();
         }
     }
 }
