@@ -12,7 +12,10 @@ namespace CSharpProject
             //CopyArrayElements.CopyOneArrayToOtherArray();
             //CountDuplicateElementsArray.CountDuplicateElementsInArray();
             //MergeTwoArrays.SortMergedArray();
-            FrequencyOfElementsInArray.DisplayFrequencyOfEachElementInArray();
+            //FrequencyOfElementsInArray.DisplayFrequencyOfEachElementInArray();
+            //FindMinAndMaxElementInArray.DisplayMaxElementInArray();
+            //FindMinAndMaxElementInArray.DisplayMinElementInArray();
+            OddAndEvenNumbersInArray.DisplayEvenAndOddNumbers();
         }
     }
 }
