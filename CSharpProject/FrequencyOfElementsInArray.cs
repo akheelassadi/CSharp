@@ -19,21 +19,35 @@ namespace CSharpProject
                 array1[i] = int.Parse(Console.ReadLine());
             }
 
-            //3 2 1 4 5
+            /*thorugh for loops
             int counter = 0;
             for (int i = 0; i < array1.Length; i++)
-            {
-                for (int j = 0; j < array1.Length; j++)
                 {
-                    //iterate through first element
-                    int firstELement = array1[i];
-                    if (firstELement == array1[j])
+                    for (int j = 0; j < array1.Length; j++)
                     {
-                        counter++;
-                    }                   
-                }
-                Console.WriteLine($"{array1[i]} occured {counter} times");
-                counter = 0;
+                        //iterate through first element
+                        int firstELement = array1[i];
+                        if (firstELement == array1[j])
+                        {
+                            counter++;
+                        }
+                    }
+                    Console.WriteLine($"{array1[i]} occured {counter} times");
+                    counter = 0;
+                }*/
+
+            //using dictionary
+            var dictionary = new Dictionary<int, int>();
+
+            foreach (var item in array1)
+            {
+                dictionary.TryGetValue(item, out int count);
+                dictionary[item] = count + 1;
+            }
+
+            foreach (var item in dictionary)
+            {
+                Console.WriteLine($"{item.Key} occured {item.Value} times");
             }
             
         }
