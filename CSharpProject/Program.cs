@@ -16,7 +16,8 @@ namespace CSharpProject
             //FindMinAndMaxElementInArray.DisplayMaxElementInArray();
             //FindMinAndMaxElementInArray.DisplayMinElementInArray();
             //OddAndEvenNumbersInArray.DisplayEvenAndOddNumbers();
-            SortArrayElements.DisplayArrayElementsInAscOrder();
+            //SortArrayElements.DisplayArrayElementsInAscOrder();
+            FibonacciSeries.DisplayFibonacci(10);
         }
     }
 }
