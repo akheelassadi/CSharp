@@ -4,8 +4,11 @@ using System.Text;
 
 namespace CSharpProject
 {
-    class DeleteArrayElement
+    public class DeleteArrayElement
     {
-
+        public static void DeleteAnElementFromArray()
+        {
+            
+        }
     }
 }
