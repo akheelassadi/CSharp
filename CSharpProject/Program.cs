@@ -18,7 +18,9 @@ namespace CSharpProject
             //OddAndEvenNumbersInArray.DisplayEvenAndOddNumbers();
             //SortArrayElements.DisplayArrayElementsInAscOrder();
             //FibonacciSeries.DisplayFibonacci(10);
-            AddNewValueInArray.DisplayArrayWithNewValueAdded();
+            //AddNewValueInArray.DisplayArrayWithNewValueAdded();
+            //CheckProcessStatus.RestartProcess("IcefallMDC_Simulator - V2_2.exe", "C:\\Leica\\Simulators\\IcefallMDC_Simulator - V2_2.exe");
+            FindDocumentInMongoDB.FindDocumentInDB();
         }
     }
 }
