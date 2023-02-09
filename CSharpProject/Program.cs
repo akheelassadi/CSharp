@@ -21,7 +21,12 @@ namespace CSharpProject
             //AddNewValueInArray.DisplayArrayWithNewValueAdded();
             //CheckProcessStatus.RestartProcess("IcefallMDC_Simulator - V2_2.exe", "C:\\Leica\\Simulators\\IcefallMDC_Simulator - V2_2.exe");
             //FindDocumentInMongoDB.FindDocumentInDB();
-            FindElementInArray.FindSecondLargestElementInArray();
+            //FindElementInArray.FindSecondLargestElementInArray();
+            //DeleteArrayElement.DeleteAnElementFromArray();
+            //CRUD_MongoDB.PopulateSurgeonsInDB();
+            CRUD_MongoDB.PopulateErrorsInDB();
+            //Palindrome.IsGivenStringPalindrome("");
+            //FindElementInArray.CountNumberOfOccurenceOfCharacterInString("Hello World");
         }
     }
 }

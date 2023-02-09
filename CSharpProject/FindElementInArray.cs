@@ -39,5 +39,30 @@ namespace CSharpProject
             
             Console.WriteLine($"The second largest element in the array: {SecondLargestElement}");
         }
+
+        public static void CountNumberOfOccurenceOfCharacterInString(string input)
+        {
+            Dictionary<char, int> characterCount = new Dictionary<char, int>();
+
+            foreach (var character in input)
+            {
+                if (character != ' ')
+                {
+                    if (!characterCount.ContainsKey(character))
+                    {
+                        characterCount.Add(character, 1);
+                    }
+                    else
+                    {
+                        characterCount[character]++;
+                    }
+                }
+            }
+
+            foreach (var character in characterCount)
+            {
+                Console.WriteLine($"{character.Key} occurred {character.Value} times");
+            }
+        }
     }
 }
